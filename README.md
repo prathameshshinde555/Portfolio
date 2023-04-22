@@ -1,6 +1,5 @@
 # Personal portfolio
 
-[![Live Site](/public/social-image.png)](https://alenyohannan.xyz)
 
 ## Install & run
 
